@@ -7,6 +7,7 @@
     <authors>benbarth</authors>
     <owners>benbarth</owners>
     <projectUrl>https://github.com/benbarth/eat</projectUrl>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes></releaseNotes>
