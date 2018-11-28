@@ -11,7 +11,7 @@ Let's look at some examples! Eat can be used using `Eat.Exception()` or `IsExcep
 ```
 var setting = Eat.Exception(() => { return ReadSetting("setting"); }, "fallback value");
 // or
-Eat.Exception(() => { DoSomething("setting"); });
+Eat.Exception(() => { DoSomething(); });
 ```
 ### IsExceptionThrown()
 ```
