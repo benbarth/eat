@@ -2,7 +2,7 @@
 A zero dependency library to simplify exception handling.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![NuGet](https://img.shields.io/nuget/dt/wait.svg)](https://www.nuget.org/packages/eat/)
+[![NuGet](https://img.shields.io/nuget/dt/eat.svg)](https://www.nuget.org/packages/eat/)
 
 
 Let's look at some examples! Eat can be used using `Eat.Exception()` or `IsExceptionThrown()`.
