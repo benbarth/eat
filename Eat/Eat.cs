@@ -27,7 +27,7 @@ namespace Eat
 			}
 		}
 
-		public static T Exception<T>(Func<T> it, T defaultValue)
+		public static T Exception<T>(Func<T> it, T fallbackValue)
 		{
 			try
 			{
@@ -35,7 +35,7 @@ namespace Eat
 			}
 			catch
 			{
-				return defaultValue;
+				return fallbackValue;
 			}
 		}
 	}
